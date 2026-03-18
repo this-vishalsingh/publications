@@ -30,6 +30,3 @@ It answers qns:
 - How to be a zk-auditor/researcher/engineer?
 
 
-![AI Maturity Matrix](ai_maturity_matrix.png)
-
-![AI-Native Tools](ai_native_tools.png)
